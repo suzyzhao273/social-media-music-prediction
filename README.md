@@ -19,6 +19,10 @@ This file contains the **complete machine learning workflow**, including:
 - model comparison
 - model interpretation
 
+### `report.Rmd`
+
+report of final_pipeline
+
 ---
 
 ## Data Construction Scripts
