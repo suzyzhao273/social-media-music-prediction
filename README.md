@@ -1,6 +1,8 @@
-# Machine Learning Final Project
+# Social Media Attention and Music Performance
 
-This repository contains the **code used for the final machine learning project**.
+This repository contains the code for a machine learning project that examines how **online discussion dynamics influence music chart performance**.
+
+Instead of focusing only on technical modeling, this project aims to understand how different types of social media attention—such as discussion volume and controversy—relate to both short-term visibility and long-term success.
 
 The datasets used in this project are **not included** because they are very large and uploading them would be impractically slow. Therefore, this repository only contains the **code pipeline** used to construct the dataset and run the models.
 
